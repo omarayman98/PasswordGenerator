@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="shit">************</string>
+    <string name="copy_password"> Copy Password</string>
+    <string name="hint">*PasswordGenerator App helps you to create Strongest Passwords containing letters in upper case ,lower case ,numbers and Symbols like !%*@$#. \n\n*PasswordGenerator App Never Save any Recommended Passwords.</string>
+    <string name="generate_password">Generate Password</string>
+</resources>
